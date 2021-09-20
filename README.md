@@ -4,7 +4,8 @@
 The purpose of this challenge was to analyze ride-sharing data for each city type. We also graphed the fares on a line chart to compare them across all city types.
 
 ## Results
-The bigger the city, the lower the average cost of the ride. The bigger the city, the higher the total amount of rides, translating to a higher amount of revenue from fares. Urban city rides had a toal of 1,625 rides, Suburban cities had 625 rides and Rurual cities had a measley 125 rides. 
+The bigger the city, the lower the average cost of the ride. The bigger the city, the higher the total amount of rides, translating to a higher amount of revenue from fares. Urban city rides had a toal of 1,625 rides, Suburban cities had 625 rides and Rurual cities had a measley 125 rides.
+![PyBer Data](https://github.com/abeituni/PyBer_Analysis/blob/main/PyberFareSummary.png)
 
 
 ## Summary
